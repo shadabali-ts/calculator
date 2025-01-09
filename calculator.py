@@ -1,29 +1,3 @@
-# import math
-# a =int(input("enter the first number :"))
-# b= int(input("enter the second number")
-# )
-# opt = str(input("\nenter the oprator"))
-# print("first number:",a)
-# print("second number:",b)
-# print("oprator:",opt)
-
-# if opt == '+':
-#     print(a+b)
-    
-# elif opt == '-':
-#     print(a-b)
-    
-# elif opt== '*':
-#     print(a*b)
-    
-# elif opt== '/':
-#     print(a/b)
-    
-# else:
-#     print("oprator invalid")
-
-
-
 
 import streamlit as st
 
